@@ -1,0 +1,6 @@
+geonamescache
+langchain
+openai
+pandas
+reportlab
+streamlit
